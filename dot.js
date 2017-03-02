@@ -31,7 +31,6 @@ function delayReload(sec) {
 //execute functions
 el.innerHTML = randomDiv(400);
 
-//un-comment for reload every five seconds
-//delayReload(5000);
+delayReload(2500);
 
 
